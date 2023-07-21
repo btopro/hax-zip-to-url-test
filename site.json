@@ -1,0 +1,528 @@
+{
+    "id": "0743c2a5-3767-4ad4-bd4c-c5d2d9c7622c",
+    "title": "buildlesstest",
+    "author": "",
+    "description": "own course",
+    "license": "by-sa",
+    "metadata": {
+        "author": {
+            "image": "",
+            "name": "",
+            "email": "",
+            "socialLink": ""
+        },
+        "site": {
+            "name": "buildlesstest",
+            "logo": "assets\/banner.jpg",
+            "lang": "en",
+            "created": 1689949639,
+            "updated": 1689949685,
+            "git": {
+                "vendor": "github",
+                "branch": "gh-pages"
+            },
+            "version": "7.0.15",
+            "domain": "",
+            "static": {},
+            "settings": {
+                "pathauto": false,
+                "publishPagesOn": false,
+                "sw": false,
+                "forceUpgrade": false
+            }
+        },
+        "theme": {
+            "element": "clean-two",
+            "path": "@lrnwebcomponents\/clean-two\/clean-two.js",
+            "name": "Clean two theme",
+            "thumbnail": "build\/es6\/node_modules\/@lrnwebcomponents\/app-hax\/lib\/assets\/images\/PartyStyle.svg",
+            "variables": {
+                "image": "",
+                "hexCode": "#aeff00",
+                "cssVariable": "--simple-colors-default-theme-purple-7",
+                "icon": "image:palette"
+            }
+        },
+        "node": {
+            "fields": {}
+        },
+        "build": {
+            "version": "7.0.15",
+            "structure": "course",
+            "type": "own"
+        }
+    },
+    "items": [
+        {
+            "id": "item-071e4f3e-e10c-4ffb-9892-2fb8d7256afd",
+            "indent": 0,
+            "location": "pages\/item-071e4f3e-e10c-4ffb-9892-2fb8d7256afd\/index.html",
+            "slug": "welcome",
+            "order": 0,
+            "parent": null,
+            "title": "Welcome to buildlesstest",
+            "description": "",
+            "metadata": {
+                "created": "1689949639",
+                "updated": 1689949659,
+                "published": "1",
+                "locked": "",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-b13192b3-608f-4674-a073-f69895a13cc8",
+            "indent": "1",
+            "location": "pages\/item-b13192b3-608f-4674-a073-f69895a13cc8\/index.html",
+            "slug": "copy-of-page-3\/copy-of-page",
+            "order": 0,
+            "parent": "item-6dff6057-f779-473b-8994-c085dddea5a2",
+            "title": "Copy of Page",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-2438b256-06c1-4197-9129-2e219cd5c174",
+            "indent": "1",
+            "location": "pages\/item-2438b256-06c1-4197-9129-2e219cd5c174\/index.html",
+            "slug": "copy-of-page-2\/copy-of-page",
+            "order": 0,
+            "parent": "item-d7ff6f9f-ac8e-4774-ae49-646f2c4affe3",
+            "title": "Copy of Page",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-21dcab66-fcaa-40eb-81eb-e0ccdc380c06",
+            "indent": "1",
+            "location": "pages\/item-21dcab66-fcaa-40eb-81eb-e0ccdc380c06\/index.html",
+            "slug": "page\/page",
+            "order": 0,
+            "parent": "item-bdb276e8-7ea2-4934-94f6-9f5e3b07404e",
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": "1689949647",
+                "updated": 1689949659,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-456054f3-2364-4ad8-bb3c-294e60fcc56e",
+            "indent": "1",
+            "location": "pages\/item-456054f3-2364-4ad8-bb3c-294e60fcc56e\/index.html",
+            "slug": "copy-of-page-1\/copy-of-page",
+            "order": 0,
+            "parent": "item-14baed76-276e-4b27-8c37-3d8a91b57157",
+            "title": "Copy of Page",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-2f3a16a5-84cb-4157-a86c-42dbd09a5658",
+            "indent": "1",
+            "location": "pages\/item-2f3a16a5-84cb-4157-a86c-42dbd09a5658\/index.html",
+            "slug": "copy-of-page\/copy-of-page",
+            "order": 0,
+            "parent": "item-8d511ee1-80d1-4e54-8119-c0d518369148",
+            "title": "Copy of Page",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-0da54366-8e8c-45f4-abfd-7938b809e07d",
+            "indent": "1",
+            "location": "pages\/item-0da54366-8e8c-45f4-abfd-7938b809e07d\/index.html",
+            "slug": "page\/page-copy",
+            "order": 1,
+            "parent": "item-bdb276e8-7ea2-4934-94f6-9f5e3b07404e",
+            "title": "Page Copy",
+            "description": "",
+            "metadata": {
+                "created": "1689949648",
+                "updated": 1689949659,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-6201e3cf-462a-42ca-abb2-6d9d17ad4b6c",
+            "indent": "1",
+            "location": "pages\/item-6201e3cf-462a-42ca-abb2-6d9d17ad4b6c\/index.html",
+            "slug": "copy-of-page-1\/copy-of-page-copy",
+            "order": 1,
+            "parent": "item-14baed76-276e-4b27-8c37-3d8a91b57157",
+            "title": "Copy of Page Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-07440fdf-774b-4e78-9952-366fd6fb46a1",
+            "indent": "1",
+            "location": "pages\/item-07440fdf-774b-4e78-9952-366fd6fb46a1\/index.html",
+            "slug": "copy-of-page-2\/copy-of-page-copy",
+            "order": 1,
+            "parent": "item-d7ff6f9f-ac8e-4774-ae49-646f2c4affe3",
+            "title": "Copy of Page Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-bdb276e8-7ea2-4934-94f6-9f5e3b07404e",
+            "indent": 0,
+            "location": "pages\/item-bdb276e8-7ea2-4934-94f6-9f5e3b07404e\/index.html",
+            "slug": "page",
+            "order": 1,
+            "parent": null,
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": "1689949646",
+                "updated": 1689949659,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-52484fb2-cba1-4cbe-b4ba-4e61bef37dcc",
+            "indent": "1",
+            "location": "pages\/item-52484fb2-cba1-4cbe-b4ba-4e61bef37dcc\/index.html",
+            "slug": "page\/page-copy-copy",
+            "order": 2,
+            "parent": "item-bdb276e8-7ea2-4934-94f6-9f5e3b07404e",
+            "title": "Page Copy Copy",
+            "description": "",
+            "metadata": {
+                "created": "1689949649",
+                "updated": 1689949659,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-cb11bc33-e40c-49b5-8092-612e368641fe",
+            "indent": "1",
+            "location": "pages\/item-cb11bc33-e40c-49b5-8092-612e368641fe\/index.html",
+            "slug": "page\/page-copy-copy-copy",
+            "order": 3,
+            "parent": "item-bdb276e8-7ea2-4934-94f6-9f5e3b07404e",
+            "title": "Page Copy Copy Copy",
+            "description": "",
+            "metadata": {
+                "created": "1689949650",
+                "updated": 1689949659,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-877753d8-eb91-4a18-a8d8-20295c041d0e",
+            "indent": "1",
+            "location": "pages\/item-877753d8-eb91-4a18-a8d8-20295c041d0e\/index.html",
+            "slug": "copy-of-page-3\/copy-of-page-copy",
+            "order": 1,
+            "parent": "item-6dff6057-f779-473b-8994-c085dddea5a2",
+            "title": "Copy of Page Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-d212763e-a63c-4fe7-a580-6868c42c37ae",
+            "indent": "1",
+            "location": "pages\/item-d212763e-a63c-4fe7-a580-6868c42c37ae\/index.html",
+            "slug": "copy-of-page\/copy-of-page-copy",
+            "order": 1,
+            "parent": "item-8d511ee1-80d1-4e54-8119-c0d518369148",
+            "title": "Copy of Page Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-2788775e-f59a-483d-9dfa-a4f8d76813ca",
+            "indent": "1",
+            "location": "pages\/item-2788775e-f59a-483d-9dfa-a4f8d76813ca\/index.html",
+            "slug": "copy-of-page\/copy-of-page-copy-copy",
+            "order": 2,
+            "parent": "item-8d511ee1-80d1-4e54-8119-c0d518369148",
+            "title": "Copy of Page Copy Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-1588d3b3-cf50-4b04-9539-43ffb477c50f",
+            "indent": "1",
+            "location": "pages\/item-1588d3b3-cf50-4b04-9539-43ffb477c50f\/index.html",
+            "slug": "copy-of-page-1\/copy-of-page-copy-copy",
+            "order": 2,
+            "parent": "item-14baed76-276e-4b27-8c37-3d8a91b57157",
+            "title": "Copy of Page Copy Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-8d511ee1-80d1-4e54-8119-c0d518369148",
+            "indent": 0,
+            "location": "pages\/item-8d511ee1-80d1-4e54-8119-c0d518369148\/index.html",
+            "slug": "copy-of-page",
+            "order": 2,
+            "parent": null,
+            "title": "Copy of Page",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-47506322-9703-4d49-87c0-078dcfb5e7c3",
+            "indent": "1",
+            "location": "pages\/item-47506322-9703-4d49-87c0-078dcfb5e7c3\/index.html",
+            "slug": "copy-of-page\/copy-of-page-copy-copy-copy",
+            "order": 3,
+            "parent": "item-8d511ee1-80d1-4e54-8119-c0d518369148",
+            "title": "Copy of Page Copy Copy Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-6616a796-3ef1-4c17-a527-846ba62c9e0a",
+            "indent": "1",
+            "location": "pages\/item-6616a796-3ef1-4c17-a527-846ba62c9e0a\/index.html",
+            "slug": "copy-of-page-3\/copy-of-page-copy-copy",
+            "order": 2,
+            "parent": "item-6dff6057-f779-473b-8994-c085dddea5a2",
+            "title": "Copy of Page Copy Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-f9555d52-4b2f-4847-bcb1-06c3dbc8a65c",
+            "indent": "1",
+            "location": "pages\/item-f9555d52-4b2f-4847-bcb1-06c3dbc8a65c\/index.html",
+            "slug": "copy-of-page-2\/copy-of-page-copy-copy",
+            "order": 2,
+            "parent": "item-d7ff6f9f-ac8e-4774-ae49-646f2c4affe3",
+            "title": "Copy of Page Copy Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-353b1886-3a6b-4de4-b4cd-fb9b49d3cd59",
+            "indent": "1",
+            "location": "pages\/item-353b1886-3a6b-4de4-b4cd-fb9b49d3cd59\/index.html",
+            "slug": "copy-of-page-3\/copy-of-page-copy-copy-copy",
+            "order": 3,
+            "parent": "item-6dff6057-f779-473b-8994-c085dddea5a2",
+            "title": "Copy of Page Copy Copy Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-ddd7a34f-9d51-4a9c-a6be-951d8c66c0ff",
+            "indent": "1",
+            "location": "pages\/item-ddd7a34f-9d51-4a9c-a6be-951d8c66c0ff\/index.html",
+            "slug": "copy-of-page-2\/copy-of-page-copy-copy-copy",
+            "order": 3,
+            "parent": "item-d7ff6f9f-ac8e-4774-ae49-646f2c4affe3",
+            "title": "Copy of Page Copy Copy Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-07a73104-748c-4e66-a002-248dcffce7d6",
+            "indent": "1",
+            "location": "pages\/item-07a73104-748c-4e66-a002-248dcffce7d6\/index.html",
+            "slug": "copy-of-page-1\/copy-of-page-copy-copy-copy",
+            "order": 3,
+            "parent": "item-14baed76-276e-4b27-8c37-3d8a91b57157",
+            "title": "Copy of Page Copy Copy Copy",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-14baed76-276e-4b27-8c37-3d8a91b57157",
+            "indent": 0,
+            "location": "pages\/item-14baed76-276e-4b27-8c37-3d8a91b57157\/index.html",
+            "slug": "copy-of-page-1",
+            "order": 3,
+            "parent": null,
+            "title": "Copy of Page",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-d7ff6f9f-ac8e-4774-ae49-646f2c4affe3",
+            "indent": 0,
+            "location": "pages\/item-d7ff6f9f-ac8e-4774-ae49-646f2c4affe3\/index.html",
+            "slug": "copy-of-page-2",
+            "order": 4,
+            "parent": null,
+            "title": "Copy of Page",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-6dff6057-f779-473b-8994-c085dddea5a2",
+            "indent": 0,
+            "location": "pages\/item-6dff6057-f779-473b-8994-c085dddea5a2\/index.html",
+            "slug": "copy-of-page-3",
+            "order": 5,
+            "parent": null,
+            "title": "Copy of Page",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1689949659,
+                "images": [],
+                "videos": [],
+                "updated": 1689949659
+            }
+        },
+        {
+            "id": "item-457b08de-d537-484b-9fd3-123d004818ad",
+            "indent": 0,
+            "location": "pages\/item-457b08de-d537-484b-9fd3-123d004818ad\/index.html",
+            "slug": "welcome-to-buildlesstest-copy",
+            "order": 6,
+            "parent": null,
+            "title": "Welcome to buildlesstest Copy",
+            "description": "",
+            "metadata": {
+                "created": "1689949651",
+                "updated": 1689949659,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": ""
+            }
+        }
+    ]
+}
