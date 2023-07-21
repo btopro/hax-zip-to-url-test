@@ -13,10 +13,10 @@
         },
         "site": {
             "name": "buildlesstest",
-            "logo": "assets\/banner.jpg",
+            "logo": "https:\/\/live.staticflickr.com\/65535\/53061642764_753e9b3431_b.jpg",
             "lang": "en",
             "created": 1689949639,
-            "updated": 1689949685,
+            "updated": 1689956422,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
@@ -178,19 +178,21 @@
         },
         {
             "id": "item-6201e3cf-462a-42ca-abb2-6d9d17ad4b6c",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-6201e3cf-462a-42ca-abb2-6d9d17ad4b6c\/index.html",
             "slug": "copy-of-page-1\/copy-of-page-copy",
             "order": 1,
             "parent": "item-14baed76-276e-4b27-8c37-3d8a91b57157",
             "title": "Copy of Page Copy",
-            "description": "",
+            "description": "here's a bunch of new content or something",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": 1689949659,
                 "images": [],
                 "videos": [],
-                "updated": 1689949659
+                "updated": 1689956262,
+                "published": true,
+                "readtime": 1
             }
         },
         {

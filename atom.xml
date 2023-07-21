@@ -3,7 +3,7 @@
   <title>buildlesstest</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>own course</subtitle>
-  <updated>2023-07-21T14:27:39+00:00</updated>
+  <updated>2023-07-21T14:28:05+00:00</updated>
   <author>
       <name></name>
   </author>
@@ -167,13 +167,15 @@
   <entry>
     <title>Copy of Page Copy</title>
     <id>/item-6201e3cf-462a-42ca-abb2-6d9d17ad4b6c</id>
-    <updated>2023-07-21T14:27:39+00:00</updated>
+    <updated>2023-07-21T16:17:42+00:00</updated>
     <published>2023-07-21T14:27:39+00:00</published>
-    <summary></summary>
+    <summary>here's a bunch of new content or something</summary>
     <link href="/item-6201e3cf-462a-42ca-abb2-6d9d17ad4b6c"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ 
+<p>here's a bunch of new content or something</p>
+ ]]>
     </content>
   </entry>
   <entry>

@@ -68,7 +68,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-6201e3cf-462a-42ca-abb2-6d9d17ad4b6c\/index.html",
-        "MI9hrpiNQ5XC5NcpO5tGw"
+        "xGYMTNGiTQHxxDLV50ZaaQ"
     ],
     [
         "pages\/item-07440fdf-774b-4e78-9952-366fd6fb46a1\/index.html",
@@ -148,51 +148,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "IV4lx7EUGidX2i6cG1QzkA"
-    ],
-    [
-        "files\/haxcms-managed\/512x512-banner.png",
-        "bxcvtN521YuFptMZIWyDBA"
-    ],
-    [
-        "files\/haxcms-managed\/310x310-banner.png",
-        "n2k6RwJOo0DMpXsPy7Wg"
-    ],
-    [
-        "files\/haxcms-managed\/192x192-banner.png",
-        "UueBpu4JgFX8V9P3e7j2ug"
-    ],
-    [
-        "files\/haxcms-managed\/150x150-banner.png",
-        "2ZG6Q3cEl7yNqWGDsOiDQ"
-    ],
-    [
-        "files\/haxcms-managed\/144x144-banner.png",
-        "grVdXafufIknFqrPV9kO9w"
-    ],
-    [
-        "files\/haxcms-managed\/96x96-banner.png",
-        "L86Yc5J0Fj7sTYrvTHMQ"
-    ],
-    [
-        "files\/haxcms-managed\/72x72-banner.png",
-        "MGm4cc7i9t6wplSSwq1fg"
-    ],
-    [
-        "files\/haxcms-managed\/70x70-banner.png",
-        "gcIu4tsuhqpr6AJQ7fqqg"
-    ],
-    [
-        "files\/haxcms-managed\/48x48-banner.png",
-        "PdH2n6n7fj80g2ApC6yA6A"
-    ],
-    [
-        "files\/haxcms-managed\/36x36-banner.png",
-        "wC2aO2W0ZJvCcNxPKa3ERQ"
-    ],
-    [
-        "files\/haxcms-managed\/16x16-banner.png",
-        "URJe0dJGDalwHbU0yhka2Q"
+        "mYNB0JpBbujjkUffzajfdw"
     ],
     [
         "manifest.json",
@@ -200,11 +156,11 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "hmrSw3aXY3wEUeRcuM5SQ"
+        "23wGJQV3umaa2qAJEoqCA"
     ],
     [
         "404.html",
-        "QEzLbAYRfRrqwxyIGIpfNQ"
+        "0BBVAns5rLQLPevl6LRa9A"
     ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

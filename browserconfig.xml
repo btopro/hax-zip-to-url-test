@@ -2,9 +2,9 @@
 <browserconfig>
 	<msapplication>
 		<tile>
-			<square70x70logo src="files/haxcms-managed/70x70-banner.png"/>
-			<square150x150logo src="files/haxcms-managed/150x150-banner.png"/>
-			<square310x310logo src="files/haxcms-managed/310x310-banner.png"/>
+			<square70x70logo src="https://live.staticflickr.com/65535/53061642764_753e9b3431_b.png"/>
+			<square150x150logo src="https://live.staticflickr.com/65535/53061642764_753e9b3431_b.png"/>
+			<square310x310logo src="https://live.staticflickr.com/65535/53061642764_753e9b3431_b.png"/>
 			<TileColor>#aeff00</TileColor>
 		</tile>
 	</msapplication>
